@@ -53,7 +53,9 @@ We have added the initial version of our mobile application’s user interface s
 - **🎞️ Project Presentation**: A detailed PowerPoint slide deck explaining the problem, goals, design, and implementation  
 - **🎬 Project Video**: A short walkthrough of the project (YouTube)  
   👉 [Watch the video here!](https://www.youtube.com/watch?v=WXE7suBfRoY)
-  **🎬 Trello **:  https://trello.com/b/SBjNXJjr/ucak-i%CC%87ci-eglence-sistemi-scrum
+## 📌 Trello Board  
+Follow our project progress and tasks in Trello:  
+🔗 [Trello – Uçak İçi Eğlence Sistemi (SCRUM)](https://trello.com/b/SBjNXJjr/ucak-i%CC%87ci-eglence-sistemi-scrum)
 
 
 Feel free to contribute or suggest improvements!
