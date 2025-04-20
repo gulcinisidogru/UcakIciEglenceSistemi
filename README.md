@@ -14,6 +14,27 @@ The game aims to:
 - Offer a safe and simple interface for children
   
 ---
+## 📲 App Installation & Usage Instructions
+
+You can try out the application by following the steps below:
+
+1. 🌐 Visit the official website:  
+   [https://gulcinisidogru.github.io/UcakIciEglenceSistemi/](https://gulcinisidogru.github.io/UcakIciEglenceSistemi/)
+
+2. 📥 **Download the APK** file from the site and install it on your Android device.  
+   (Make sure to allow installation from unknown sources if prompted.)
+
+3. 🧒 **Open the App** and enter your name to start.  
+
+4. ❓ **Answer the Questions** about Turkish cities to earn points.  
+
+5. 🌍 Once a question is answered correctly, **return to the website**.  
+
+6. 📥 Download the **AR Marker Image** from the same site.  
+
+7. 📷 In the mobile app, **open the camera** and scan the AR image from the website.  
+   Angelo or the related landmark will appear on the screen via AR!
+
 # UML Diagrams – Version 1
 
 This repository contains the initial set of UML diagrams (v1) created for the [Project Name] software system. These diagrams are used to visualize different aspects of the system, including its structure, behavior, and deployment model.
