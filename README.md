@@ -74,8 +74,8 @@ We have added the initial version of our mobile application’s user interface s
 - **🎞️ Project Presentation**: A detailed PowerPoint slide deck explaining the problem, goals, design, and implementation  
 - **🎬 Project Video**: A short walkthrough of the project (YouTube)  
   👉 [Watch the video here!](https://www.youtube.com/watch?v=WXE7suBfRoY)
-  👉 Watch the short demo!
-  👉 Another preview!
+  👉 [Watch the short demo!](https://youtube.com/shorts/wW-rkyyDR3U?feature=share)
+  👉 [Another preview!](https://youtube.com/shorts/KRKcyEgLFPg?feature=share)
 
 ## 📌 Trello Board  
 Follow our project progress and tasks in Trello:  
