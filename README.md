@@ -15,7 +15,6 @@ The game aims to:
   
 ---
 ## 📲 App Installation & Usage Instructions
-📲 Try the App
 You can download the APK directly by scanning the QR code below or follow the steps:
 
 ![childware-512](https://github.com/user-attachments/assets/5c8619df-493c-4e42-98ba-f4ec63a33c84)
