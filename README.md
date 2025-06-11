@@ -15,6 +15,16 @@ The game aims to:
   
 ---
 ## 📲 App Installation & Usage Instructions
+📲 Try the App
+You can download the APK directly by scanning the QR code below or follow the steps:
+
+![childware-512](https://github.com/user-attachments/assets/5c8619df-493c-4e42-98ba-f4ec63a33c84)
+
+
+
+
+
+
 
 You can try out the application by following the steps below:
 
@@ -35,7 +45,7 @@ You can try out the application by following the steps below:
 7. 📷 In the mobile app, **open the camera** and scan the AR image from the website.  
    Angelo or the related landmark will appear on the screen via AR!
 
-# UML Diagrams – Version 1
+# UML Diagrams
 
 This repository contains the initial set of UML diagrams (v1) created for the [Project Name] software system. These diagrams are used to visualize different aspects of the system, including its structure, behavior, and deployment model.
 
