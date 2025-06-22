@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\migrations\\20250601094034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\migrations\\20250601094034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\migrations\\20250601094223_v0.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\migrations\\20250601094223_v0.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\migrations\\20250601094034_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\migrations\\20250601094034_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\migrations\\20250601094223_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\migrations\\20250601094223_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\childware.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\childware.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\childware.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\childware.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\response\\databaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\response\\databaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\model\\childwaremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\model\\childwaremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\controllers\\childware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\controllers\\childware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\childware\\childware.api\\repository\\ichildware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960E0BF-7B4C-49E7-88F5-B12196B258A3}|ChildWare.api\\ChildWare.api.csproj|solutionrelative:childware.api\\repository\\ichildware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250601094223_v0.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094223_v0.Designer.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Migrations\\20250601094223_v0.Designer.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094223_v0.Designer.cs",
+              "RelativeToolTip": "ChildWare.api\\Migrations\\20250601094223_v0.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:59:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250601094034_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094034_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Migrations\\20250601094034_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094034_InitialCreate.Designer.cs",
+              "RelativeToolTip": "ChildWare.api\\Migrations\\20250601094034_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:59:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250601094034_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Migrations\\20250601094034_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094034_InitialCreate.cs",
+              "RelativeToolTip": "ChildWare.api\\Migrations\\20250601094034_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:42:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Program.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Program.cs",
+              "RelativeToolTip": "ChildWare.api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:44:25.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChildWare.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\appsettings.json",
+              "RelativeToolTip": "ChildWare.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T17:59:17.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250601094223_v0.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094223_v0.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Migrations\\20250601094223_v0.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Migrations\\20250601094223_v0.cs",
+              "RelativeToolTip": "ChildWare.api\\Migrations\\20250601094223_v0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:42:35.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChildWare.api",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\ChildWare.api.csproj",
+              "RelativeDocumentMoniker": "ChildWare.api\\ChildWare.api.csproj",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\ChildWare.api.csproj",
+              "RelativeToolTip": "ChildWare.api\\ChildWare.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T20:28:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChildWareModel.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Model\\ChildWareModel.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Model\\ChildWareModel.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Model\\ChildWareModel.cs",
+              "RelativeToolTip": "ChildWare.api\\Model\\ChildWareModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:54:35.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Response\\DatabaseResponse.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Response\\DatabaseResponse.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Response\\DatabaseResponse.cs",
+              "RelativeToolTip": "ChildWare.api\\Response\\DatabaseResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:50:08.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChildWare.api.http",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\ChildWare.api.http",
+              "RelativeDocumentMoniker": "ChildWare.api\\ChildWare.api.http",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\ChildWare.api.http",
+              "RelativeToolTip": "ChildWare.api\\ChildWare.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-31T18:01:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Data\\Context.cs",
+              "RelativeToolTip": "ChildWare.api\\Data\\Context.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:39:48.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChildWare.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Repository\\IChildWare.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Repository\\IChildWare.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Repository\\IChildWare.cs",
+              "RelativeToolTip": "ChildWare.api\\Repository\\IChildWare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:51:18.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChildWare.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Controllers\\ChildWare.cs",
+              "RelativeDocumentMoniker": "ChildWare.api\\Controllers\\ChildWare.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\ChildWare\\ChildWare.api\\Controllers\\ChildWare.cs",
+              "RelativeToolTip": "ChildWare.api\\Controllers\\ChildWare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:50:46.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

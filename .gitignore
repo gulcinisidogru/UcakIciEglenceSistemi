@@ -9,6 +9,7 @@
 # MacOS ve Windows sistem dosyaları
 .DS_Store
 Thumbs.db
+desktop.ini   # Windows masaüstü ayar dosyası
 
 # Log dosyaları
 *.log
@@ -16,8 +17,20 @@ Thumbs.db
 # IDE klasörleri
 .vscode/
 .idea/
+*.vs/         # Visual Studio özel dosyaları
 
 # Geçici dosyalar
 *.tmp
 *.bak
 
+# Rider / Resharper / JetBrains
+*.DotSettings.user
+.ReSharper*/
+*.resharper
+
+# Windows geri dönüşüm klasörü gibi bazı sistem yolları
+$RECYCLE.BIN/
+
+# NuGet ve Paketler
+*.nupkg
+packages/

@@ -1,0 +1,6 @@
+@ChildWare.api_HostAddress = http://localhost:5259
+
+GET {{ChildWare.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
