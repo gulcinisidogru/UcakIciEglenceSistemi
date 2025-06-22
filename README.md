@@ -43,6 +43,12 @@ You can try out the application by following the steps below:
 
 7. 📷 In the mobile app, **open the camera** and scan the AR image from the website.  
    Angelo or the related landmark will appear on the screen via AR!
+   
+## 📂 Additional Code Repository
+
+This repository contains only a part of the project. You can access the mobile application source code from the following link:
+
+🔗 [Child - Mobile Source Code](https://github.com/LeventElcicek/Child)
 
 # UML Diagrams
 
